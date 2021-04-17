@@ -3,13 +3,9 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
 
 - 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
-  
-
 - 🌱 class of 2021 . 
- 
-
 - 🎮 I'm playing Apex Legends and Valorant now.
-
+- ⚡ I love to draw, play guitar and i speak binary, English and Odia.
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1OtUfjfdhOZ55EBjVEVCZlOMXPtzJiOs7/view?usp=sharing)
 
 ## 👇Connect me👇
