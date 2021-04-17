@@ -23,7 +23,7 @@
 </a>
 <a href="https://dev.to/debasish2110">
   <img align="left" alt="Dev.to" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debashish's DEV Profile" width="22">
-</a> &nbsp; Visitor count: <img src="https://profile-counter.glitch.me/debasish2110/count.svg" />
+</a> &nbsp; 
 
 ----------
 
@@ -58,6 +58,9 @@ Sunday            ███░░░░░░░░░░░░░░  15.35%
 
 ![Debashish's github stats](https://github-readme-stats.vercel.app/api?username=debasish2110&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish2110&layout=compact&theme=tokyonight)
+--------
+**Visitor count:**
+<img src="https://profile-counter.glitch.me/debasish2110/count.svg" />
 
 ------
 
