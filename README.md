@@ -8,7 +8,7 @@
 - 🌱 class of 2021 . 
  
 
-- 🎮 I'm playing Apex Legends and Valorant
+- 🎮 I'm playing Apex Legends and Valorant now.
 
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1OtUfjfdhOZ55EBjVEVCZlOMXPtzJiOs7/view?usp=sharing)
 
