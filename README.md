@@ -69,7 +69,11 @@ Sunday            ███░░░░░░░░░░░░░░░░░�
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/debasish2110/count.svg" />
 
-Feel free to Copy stuff to make your profile README
-and if you like it please leave a :star:. and a :Follow:.
+------
 
-And feel free to react out if you need any help regarding setting up profile or anything else.
+### Feel free to Copy stuff to make your profile README
+### and if you like it please leave a :star: and a Follow.
+
+### And feel free to react out if you need any help regarding setting up profile or anything else.
+
+-----
