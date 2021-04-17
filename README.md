@@ -12,10 +12,6 @@
 
 ## 👇Connect me👇
 
-<a href="https://twitter.com/saini_pratyaksh">![](https://img.shields.io/badge/<@saini_pratyaksh>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/dexterpuru/">![](https://img.shields.io/badge/dexterpuru%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/debashish98/">![](https://img.shields.io/badge/dexterpuru%20-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white)</a>
-
 <a href="https://twitter.com/Debashish2110">
   <img align="left" alt="Debashish| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?&logoColor=white" />
 </a>
