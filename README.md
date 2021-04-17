@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
 - 🌱 class of 2021 . 
 - 👨‍💻 I am a 22 years old developer...
-- 📫 you can reach me [My E-mail](mailto:debasishdash98@gmail.com)
+- 📫 you can reach me: [My E-mail](mailto:debasishdash98@gmail.com)
 - 🎮 I'm playing Apex Legends and Valorant now.
 - ⚡ I love to draw, play guitar and i speak binary, English and Odia.
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1OtUfjfdhOZ55EBjVEVCZlOMXPtzJiOs7/view?usp=sharing)
