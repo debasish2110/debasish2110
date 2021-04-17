@@ -14,8 +14,8 @@
 
 
 
-<a href="https://twitter.com/Debashish2110">![](https://img.shields.io/badge/<@saini_pratyaksh>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/debashish98">![](https://img.shields.io/badge/dexterpuru%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/Debashish2110">![](https://img.shields.io/badge/<@Debashish2110>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/debashish98">![](https://img.shields.io/badge/debashish98%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## 🔧 Technologies & Tools
 
