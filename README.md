@@ -77,6 +77,6 @@ Visitor count<br>
 ### Feel free to Copy stuff to make your profile README
 ### and if you like it please leave a :star: and a Follow.
 
-### And feel free to react out if you need any help regarding setting up profile or anything else.
+### And feel free to reach out if you need any help regarding setting up profile or anything else.
 
 -----
