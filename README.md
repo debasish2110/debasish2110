@@ -35,14 +35,18 @@
 <a href="#">![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/MachineLearning-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white)</a>
-
 <a href="#">![](https://img.shields.io/badge/NLP-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)</a>
-
 <a href="#">![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/VScode-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/PyCharm-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/Jetbrains-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/Github-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/Git-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+
 
 -------
 ```
