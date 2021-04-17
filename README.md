@@ -1,8 +1,8 @@
-# Hello!, I am Debashish <img src="https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/wave.gif" width="50px">
+# Hello!, I am Debashish <img src="https://github.com/debasish2110/debasish2110/blob/master/wave.gif" width="50px">
 
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
 
-- 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://unbunked.com/)
+- 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
   
 
 - 🌱 class of 2021 . 
