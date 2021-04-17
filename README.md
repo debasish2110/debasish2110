@@ -12,8 +12,7 @@
 
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1OtUfjfdhOZ55EBjVEVCZlOMXPtzJiOs7/view?usp=sharing)
 
-## Connect me here 👇
-
+## 👇Connect me👇
 <br />
 <a href="https://twitter.com/Debashish2110">
   <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
