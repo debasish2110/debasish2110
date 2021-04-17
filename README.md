@@ -13,7 +13,7 @@
 ## 👇Connect me👇
 
 <a href="https://twitter.com/Debashish2110">
-  <img align="left" alt="Debashish| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Debashish| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/debashish98/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
