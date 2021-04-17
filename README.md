@@ -59,7 +59,7 @@ Sunday            ███░░░░░░░░░░░░░░  15.35%
 ![Debashish's github stats](https://github-readme-stats.vercel.app/api?username=debasish2110&theme=tokyonight&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish2110&layout=compact&theme=tokyonight)
 --------
-**Visitor count:**
+Visitor count: <br>
 <img src="https://profile-counter.glitch.me/debasish2110/count.svg" />
 
 ------
