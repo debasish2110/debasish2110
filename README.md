@@ -29,6 +29,8 @@
 </a> 
 <br />
 
+----------
+
 ## 🔧 Technologies & Tools
 
 <a href="#">![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)</a>
@@ -45,19 +47,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 43 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 65 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
+ 
 **I'm an Early 🐤** 
 
 ```text
@@ -70,29 +60,15 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
-Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Thursday     77 commits     █████████░░░░░░░░░░░░░░░░   35.81% 
-Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Saturday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Sunday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.35%
+Monday            ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+Tuesday           █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+Wednesday         ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
+Thursday          █████████░░░░░░░░░░░░░░░░   35.81% 
+Friday            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Saturday          █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Sunday            ███░░░░░░░░░░░░░░░░░░░░░░   15.35%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               14 hrs              ███████████████████████░░   93.47% 
-HTML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
-Go                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
-
-```
-
 
 <!--END_SECTION:waka-->
 
@@ -100,26 +76,13 @@ JSON                     4 mins              ░░░░░░░░░░░�
 
 ## &#x1f4c8; GitHub Stats
 
-![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=dexterpuru&theme=tokyonight&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterpuru&layout=compact&theme=tokyonight)
+![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=debasish2110&theme=tokyonight&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish2110&layout=compact&theme=tokyonight)
 
 Visitor count<br>
-<img src="https://profile-counter.glitch.me/dexterpuru/count.svg" />
+<img src="https://profile-counter.glitch.me/debasish2110/count.svg" />
 
 Feel free to Copy stuff to make your profile README
-and if you like it please leave a :star:.
+and if you like it please leave a :star:. and a :Follow:.
 
 And feel free to react out if you need any help regarding setting up profile or anything else.
-
-
-<!-- links to social media icons -->
-
-[1.1]: https://raw.githubusercontent.com/dexterpuru/dexterpuru/master/linkedin-3-16.png (LinkedIn icon)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon)
-[3.1]: http://i.imgur.com/tXSoThF.png (twitter icon)
-
-<!-- Link to social media -->
-
-[1]: https://www.linkedin.com/in/dexterpuru/
-[2]: https://github.com/dexterpuru
-[3]: https://twitter.com/saini_pratyaksh
