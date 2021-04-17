@@ -7,7 +7,7 @@
 - 👨‍💻 I am a 22 years old developer who speaks binary, English and Odia...
 - 📫 you can reach me: [My E-mail](mailto:debasishdash98@gmail.com)
 - 🎮 I'm playing Apex Legends and Valorant now.
-- ⚡ I love to draw, play guitar...
+- ⚡ I love to draw and play guitar...
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1OtUfjfdhOZ55EBjVEVCZlOMXPtzJiOs7/view?usp=sharing)
 
 ## 👇Connect me👇
@@ -39,7 +39,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=b35a4664c6cc4719)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Debashish Spotify Playing" width="350" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=b35a4664c6cc4719)
 -------
 📅  **I'm Most Productive on Thursday**
 ``` 
