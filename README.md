@@ -41,9 +41,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=b35a4664c6cc4719)
 -------
-
-```
-📅 **I'm Most Productive on Thursday** 
+📅  **I'm Most Productive on Thursday**
+``` 
 
 Monday            ░░░░░░░░░░░░░░░░░   0.26% 
 Tuesday           █░░░░░░░░░░░░░░░░   7.12% 
