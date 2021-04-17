@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
 - 🌱 class of 2021 . 
-- 👨‍💻 I am a 22 years old developer who speaks binary, English and Odia...
-- 📫 you can reach me: [My E-mail](mailto:debasishdash98@gmail.com)
+- 👨‍💻 I am a 22 years old developer....
 - 🎮 I'm playing Apex Legends and Valorant now.
 - ⚡ I love to draw and play guitar...
+- 📫 you can reach me: [My E-mail](mailto:debasishdash98@gmail.com)
 - 📙 Here is my [Resume](https://drive.google.com/file/d/1OtUfjfdhOZ55EBjVEVCZlOMXPtzJiOs7/view?usp=sharing)
 
 ## 👇Connect me👇
@@ -50,7 +50,7 @@ Wednesday         ███░░░░░░░░░░░░░░   13.49%
 Thursday          █████████░░░░░░░░   35.81% 
 Friday            █████░░░░░░░░░░░░   20.0% 
 Saturday          █░░░░░░░░░░░░░░░░   7.98% 
-Sunday            ███░░░░░░░░░░░░░░  15.35%
+Sunday            ███░░░░░░░░░░░░░░   15.35%
 
 ```
 -------
