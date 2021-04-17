@@ -24,7 +24,7 @@
 <a href="https://dev.to/debasish2110">
   <img align="left" alt="Dev.to" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debashish's DEV Profile" width="22">
 </a> &nbsp; Visitor count: <img src="https://profile-counter.glitch.me/debasish2110/count.svg" />
-<br />
+
 ----------
 
 ## 🔧 Technologies & Tools
