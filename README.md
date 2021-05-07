@@ -1,4 +1,4 @@
-# Hello!, I am Debashish <img src="https://github.com/debasish2110/debasish2110/blob/master/wave.gif" width="50px">
+# Hello! <img src="https://github.com/debasish2110/debasish2110/blob/master/wave.gif" width="50px">, I am Debashish 
 
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
 
