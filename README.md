@@ -7,7 +7,7 @@
 - 👨‍💻 I am a 22 years old developer....
 - ⚡ I love to draw and play guitar...
 - 📫 you can reach me: [My E-mail](mailto:debasishdash98@gmail.com)
-- 📙 Here is my [Resume](https://drive.google.com/file/d/1pK8Oavf4csvb9mz51sJQ1jWRozqtNTK6/view?usp=sharing) and my [portfolio](https://debashishdash.herokuapp.com/)
+- 📙 Here is [my Resume](https://drive.google.com/file/d/1pK8Oavf4csvb9mz51sJQ1jWRozqtNTK6/view?usp=sharing) and [my portfolio](https://debashishdash.herokuapp.com/)
 
 ## 👇Connect me👇
 
