@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="280" height="auto" />
 
-- 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
+- 🔭 I’m currently working as an intern at [LnT Tech Services](https://www.ltts.com/)
 - 🌱 class of 2021 . 
 - 👨‍💻 I am a 22 years old developer....
 - ⚡ I love to draw and play guitar...
